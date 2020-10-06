@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Tài liệu\THUCTAP2020\Project_HelloWorlds\Project_HelloWorlds\bin\Debug\Project_HelloWorlds.exe.config
+C:\Users\HP\Desktop\Tài liệu\THUCTAP2020\Project_HelloWorlds\Project_HelloWorlds\bin\Debug\Project_HelloWorlds.exe
+C:\Users\HP\Desktop\Tài liệu\THUCTAP2020\Project_HelloWorlds\Project_HelloWorlds\bin\Debug\Project_HelloWorlds.pdb
+C:\Users\HP\Desktop\Tài liệu\THUCTAP2020\Project_HelloWorlds\Project_HelloWorlds\obj\Debug\Project_HelloWorlds.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Tài liệu\THUCTAP2020\Project_HelloWorlds\Project_HelloWorlds\obj\Debug\Project_HelloWorlds.exe
+C:\Users\HP\Desktop\Tài liệu\THUCTAP2020\Project_HelloWorlds\Project_HelloWorlds\obj\Debug\Project_HelloWorlds.pdb
